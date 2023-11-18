@@ -1,0 +1,14 @@
+{
+    "service": "app",
+    "name": "contaienr 1",
+    "dockerComposeFile": "docker-compose.yml",
+    "workspaceFolder": "/app",
+    "customizations": {
+        "vscode": {
+            "settings": {},
+            "extensions": [
+                "golang.go"
+            ]
+        }
+    }
+}
